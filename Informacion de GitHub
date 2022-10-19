@@ -1,0 +1,38 @@
+Que es GitHub?
+Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y que fue comprada por Microsoft en junio del 2018. La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+Qué ofrece Github
+Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. Pero hay que tener una cosa en mente, y es que para poder subir gratis los proyectos deberán ser de código abierto. Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
+Como te hemos mencionado más arriba, en Github también puedes entrar a los proyectos de los demás y colaborar para mejorarlos. Esto quiere decir que los usuarios pueden opinar, dejar sus comentarios sobre el código, colaborar y contribuir mejorando el código. También pueden reportar errores para que los desarrolladores lo mejoren. También tiene un sistema de seguimiento de problemas, para que otras personas puedan hacer mejoras, sugerencias y optimizaciones en los proyectos. Ofrece también una herramienta de revisión de código, de forma que no sólo se pueda mirar el código fuente de una herramienta, sino que también se pueden dejar anotaciones para que su creador o tú mismo después si es tu proyecto las podáis revisar.
+
+Cómo funciona Github
+Para comprender cómo funciona Github y por qué es usado por miles de personas en todo el mundo tendremos que ver qué partes lo forman.
+Repositorio
+Un repositorio es la ubicación o ruta en la que se almacena toda la información de un proyecto como imágenes, código, carpetas, documentos, etc.
+Cada proyecto contaría con su propio repositorio único, por lo que la ruta de acceso será exclusiva para el proyecto.
+Branch (ramificaciones)
+En el caso de que queramos trabajar una parte concreta de nuestro proyecto de forma aislada no afectando al repositorio principal, tendremos que hacerlo mediante Branch.
+El Branch creará una copia exacta de nuestro proyecto para hacer pruebas sin miedo a equivocarnos y que afecte a todo el trabajo realizado.
+Pull Request (Fusión)
+Cada vez que subas un nuevo cambio en una rama del proyecto, puedes avisar a los demás colaboradores para que validen o no tu pull request, o si encuentran posibles mejoras poder comentarlas.
+
+
+Tag
+Los Tag permiten controlar el estado de un repositorio dando información a otros usuarios de en qué versión se encuentra actualmente el proyecto.
+Esta acción es conocida como “Tagging” y es bastante importante a la hora de gestionar la vida de un proyecto. Crear un nuevo proyecto a partir de otro (Fork).
+Cuándo usar Github
+Github es perfecto para gestionar desarrollos, permitiendo compartir los proyectos a una gran comunidad de desarrolladores que estarán encantados de cooperar y mejorar el software, aportando mejoras o comentarios que añadirán valor al desarrollo final.
+Contar con un gestor de versiones como Git permite ver todos los cambios en la vida del proyecto desde sus inicios.
+Si quieres aprender más sobre Github solo tienes que visitar su página web github.com/about o si quieres comenzar a trabajar con él te dejamos esta otra guía de Github.
+ 
+Ventajas y desventajas de GitHub
+Por otro lado, GitHub también tiene sus pros y contras, entre los que destacan los siguientes:
+Ventajas
+•	Servicio gratuito, aunque también tiene servicios de pago.
+•	Búsqueda muy rápida en las estructura de los repos.
+•	Amplia comunidad y fácil encontrar ayuda.
+•	Ofrece prácticas herramientas de cooperación y buena integración con Git.
+•	Fácil integrar con otros servicios de terceros.
+•	Trabaja también con TFS, HG y SVN.
+Desventajas
+•	No es absolutamente abierto.
+•	Tiene limitaciones de espacio, ya que no puedes exceder de 100MB en un solo archivo, mientras que los repositorios están limitados a 1GB en la versión gratis.
